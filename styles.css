@@ -1,0 +1,10 @@
+p {
+text-align: justify;
+text-indent: 30px;
+font-family: Serif;
+font-size: 14px;
+}
+h1, h2, h3 {
+color: blue; /* тоже самое, что и #0000FF */
+-webkit-text-stroke: 1px #FFFFFF;
+}
